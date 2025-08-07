@@ -43,6 +43,6 @@ What is the mission success rate or failure distribution for each company?
 How many missions have been conducted from each launch site, and what are their outcomes?
 
 ## Dashboard
-https://raw.githubusercontent.com/your-username/your-repo-name/main/Dashboard%20image.png
+(https://github.com/AreebAbdulGhani76/SpaceMission-Dashboard/blob/main/Dashboard%20image.png)
 
 

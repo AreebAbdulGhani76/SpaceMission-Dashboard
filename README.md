@@ -42,10 +42,10 @@ What is the mission success rate or failure distribution for each company?
 
 How many missions have been conducted from each launch site, and what are their outcomes?
 
-## Dashboard
+## Dashboard:
 (https://github.com/AreebAbdulGhani76/SpaceMission-Dashboard/blob/main/Dashboard%20image.png)
 
-## Project Insight
+## Project Insight:
 In this project, I used Tableau to visualize data from various space mission launches around the world. The dashboard helps us understand:
 
 Which launch sites had higher or lower temperature, humidity, and wind speeds
@@ -56,7 +56,7 @@ How many missions were successful or failed
 
 Which countries or organizations had the best track records
 
-## Conclusion
+## Conclusion:
 This project shows how useful data visualization is for understanding complex information. With the help of Tableau:
 
 We can quickly see trends in space missions

@@ -45,4 +45,24 @@ How many missions have been conducted from each launch site, and what are their 
 ## Dashboard
 (https://github.com/AreebAbdulGhani76/SpaceMission-Dashboard/blob/main/Dashboard%20image.png)
 
+## Project Insight:
+In this project, I used Tableau to visualize data from various space mission launches around the world. The dashboard helps us understand:
+
+Which launch sites had higher or lower temperature, humidity, and wind speeds
+
+Which companies (like Boeing, SpaceX, Arianespace) used which launch vehicles
+
+How many missions were successful or failed
+
+Which countries or organizations had the best track records
+
+## Conclusion
+This project shows how useful data visualization is for understanding complex information. With the help of Tableau:
+
+We can quickly see trends in space missions
+
+We can compare how different companies and launch sites perform
+
+We can spot possible reasons for mission success or failure (like weather)
+
 
